@@ -1,0 +1,12 @@
+# Chặn thư viện Frontend
+frontend/node_modules/
+frontend/build/
+
+# Chặn môi trường Backend
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Chặn file môi trường và hệ thống
+.env
+.DS_Store
